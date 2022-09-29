@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! Tri's here! 👋
+
+<div id='badges'>
+  <a href='https://www.linkedin.com/in/triluu03/'>
+    <img src='https://img.shields.io/badge/LinkedIn-blue' alt='LinkedIn Profile' />
+  </a>
+  <a href='https://triluu03.github.io/personal-portfolio'>
+    <img src='https://img.shields.io/badge/Portfolio-brightgreen' alt='Personal Portfolio' />
+  </a>
+</div>
 
 <!--
 **triluu03/triluu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
