@@ -16,7 +16,7 @@
 - 📫 Reach me via: [Facebook](https://www.facebook.com/ductri.03)
 - ⚡ Fun fact: I have "not small" interests in Social Sciences too!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triluu03&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triluu03)
 
 
 <!--
