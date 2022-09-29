@@ -18,10 +18,11 @@
 
 ## Skills
 - Web Development: 
-  - Front-end: React, Redux, Material UI
-  - Back-end: Express, REST API, GraphQL, MongoDB
+  - Front-end: <img src'https://shields.io/badge/React-blue' alt='React' /> <img src'https://shields.io/badge/Redux-blue' alt='Redux' /> <img src'https://shields.io/badge/MaterialUI-blue' alt='Material UI' />
+  - Back-end: <img src'https://shields.io/badge/Express-green' alt='Express' /> <img src'https://shields.io/badge/REST-green' alt='REST API' /> <img src'https://shields.io/badge/GraphQL-green' alt='GraphQL' /> <img src'https://shields.io/badge/MongoDB-green' alt='MongoDB' />
 - Data Analytics: Python, R, SQL
 - Programming: Python, JavaScript/HTML/CSS, TypeScript
+
 
 <!--
 **triluu03/triluu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
