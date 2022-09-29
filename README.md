@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 👋
 
 <div id='badges'>
   <a href='https://www.linkedin.com/in/triluu03/'>
@@ -9,7 +9,6 @@
   </a>
 </div>
 
-## About me
 **I'm a Bachelor Student in Science at [University of Helsinki](https://www.helsinki.fi/en). My main study track is Computer Science and Data Science. I like designing and building my own apps using what I have learnt.**
 - 😤 I'm currently working on a project using React, TypeScript, and Material UI, along with Spotify API.
 - 📖 I'm currently learning more about Machine Learning and AI, started with some basics in Data Analytics!
