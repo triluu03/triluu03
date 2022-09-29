@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! I'm Tri 👋
 
 <div id='badges'>
   <a href='https://www.linkedin.com/in/triluu03/'>
@@ -9,14 +9,18 @@
   </a>
 </div>
 
-**I'm a Bachelor Student in Science at [University of Helsinki](https://www.helsinki.fi/en). My main study track is Computer Science and Data Science. I like designing and building my own apps using what I have learnt.**
+#### I'm a Bachelor Student in Science at [University of Helsinki](https://www.helsinki.fi/en). My main study track is Computer Science and Data Science. I like designing and building my own apps using what I have learnt.
 - 😤 I'm currently working on a project using React, TypeScript, and Material UI, along with Spotify API.
-- 📖 I'm currently learning more about Machine Learning and AI, started with some basics in Data Analytics!
+- 📖 I'm learning more about Machine Learning and AI, started with some basics in Data Analytics!
 - 📫 Reach me via: [Facebook](https://www.facebook.com/ductri.03)
 - ⚡ Fun fact: I have "not small" interests in Social Sciences too!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triluu03)
-
+#### My Programming Skills
+- Web Development:
+  - Front-end: `React`, `Redux`, `Material UI`
+  - Back-end: `Express`, `GraphQL`, `MongoDB`, `REST API`
+- Data Analytics: `Python`, `R`, `SQL`
+- Languages: `Python`, `TypeScript`, `JavaScript`, `HTML`, `CSS`
 
 <!--
 **triluu03/triluu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
