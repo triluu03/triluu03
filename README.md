@@ -18,8 +18,8 @@
 
 ## Skills
 - Web Development: 
-  - Front-end: <img src'https://shields.io/badge/React-blue' alt='React' /> <img src'https://shields.io/badge/Redux-blue' alt='Redux' /> <img src'https://shields.io/badge/MaterialUI-blue' alt='Material UI' />
-  - Back-end: <img src'https://shields.io/badge/Express-green' alt='Express' /> <img src'https://shields.io/badge/REST-green' alt='REST API' /> <img src'https://shields.io/badge/GraphQL-green' alt='GraphQL' /> <img src'https://shields.io/badge/MongoDB-green' alt='MongoDB' />
+  - Front-end: ![image]({https://shields.io/badge/React-blue}) ![image]({https://shields.io/badge/Redux-blue}) ![image]({https://shields.io/badge/MaterialUI-blue})  
+  - Back-end: ![image]({https://shields.io/badge/Express-green}) ![image]({https://shields.io/badge/REST-green}) ![image]({https://shields.io/badge/GraphQL-green}) ![image]({https://shields.io/badge/MongoDB-green}) 
 - Data Analytics: Python, R, SQL
 - Programming: Python, JavaScript/HTML/CSS, TypeScript
 
