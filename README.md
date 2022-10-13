@@ -10,7 +10,7 @@
 </div>
 
 #### I'm a Bachelor Student in Science at [University of Helsinki](https://www.helsinki.fi/en). My main study track is Computer Science and Data Science. I like designing and building my own apps using what I have learnt.
-- 😤 I'm currently working on a project using React, TypeScript, and Material UI, along with Spotify API.
+- 😤 I'm currently working on a data analysis project using R and PostgreSQL. 
 - 📖 I'm learning more about Machine Learning and AI, started with some basics in Data Analytics!
 - 📫 Reach me via: [Facebook](https://www.facebook.com/ductri.03)
 - ⚡ Fun fact: I have "not small" interests in Social Sciences too!
